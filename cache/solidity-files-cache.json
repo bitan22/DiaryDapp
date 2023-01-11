@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Bitan Halder\\OneDrive\\Desktop\\ethereum ......web3\\coffee app\\contracts\\chai.sol": {
+      "lastModificationDate": 1672904133704,
+      "contentHash": "18545e4dcd2a353afa5f678f8a116fe7",
+      "sourceName": "contracts/chai.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0 <0.9.0"
+      ],
+      "artifacts": [
+        "chai"
+      ]
+    }
+  }
+}
